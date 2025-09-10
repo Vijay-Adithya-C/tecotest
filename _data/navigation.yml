@@ -9,3 +9,5 @@ main:
     url: /about/
   - title: "NewNav"
     url: /newnav/
+  - title: "splashpage"
+    url: /splashpage/
