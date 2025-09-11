@@ -11,7 +11,11 @@ header:
     - label: "View My CV"
       url: "/assets/pdf/Black_Scholes_with_Notes_and_Equations (7).pdf"
       class: "btn btn--primary"
-    # - label: "Publications"
-    #   url: "/publications/"
+    - label: "Non-Academic"
+      url: "https://vijay-adithya-c.github.io/tecotest/categories/#non-academic"
+      class: "btn btn--secondary"
+    - label: "Academic"
+      url: "https://vijay-adithya-c.github.io/tecotest/categories/#academic"
+      class: "btn btn--secondary"
 excerpt: "Economics student exploring mathematics, finance, and statistics."
 ---
